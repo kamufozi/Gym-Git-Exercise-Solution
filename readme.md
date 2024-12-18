@@ -1,6 +1,6 @@
 # Git exercises
 ## Bundle 1
-### Exercise 1
+### Exercise 1 hey
 Fozi Chris@DESKTOP-EI6IC2P MINGW64 ~/onedrive/desktop/github exercises/bunE1 (master)
 $ git branch -m main
 
